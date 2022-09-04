@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+Flutter 공식 문서의 Starter Flutter app
 
 ## Getting Started
 
